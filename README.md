@@ -11,9 +11,7 @@ Authors:
 
 Overview:
 
-PLEASE PROVIDE AN OVERVIEW OF THE PROJECT FOR THOSE WHO MIGHT NOT
-OTHERWISE UNDERSTAND IT.
-
+Allows you to create a N by M size matrix with a default value of your choice.
 ---
 
 Citations:
